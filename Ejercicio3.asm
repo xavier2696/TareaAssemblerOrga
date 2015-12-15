@@ -17,7 +17,7 @@
 .data
     Titulo    db "Letra mas repetida",0
       Mensaje1 db "En el texto "
-      texto db "bbbbbbbbbbbbbbewtwerywrey"
+      texto db "UNIVERSIDAD TECNOLÓGICA CENTROAMERICANA"
       Mensaje2   db " la letra mas repetida es la "
       letra db "    ",0  
       
